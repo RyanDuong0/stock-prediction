@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+numpy
+prophet
+plotly
+fuzzywuzzy
+python-dotenv
+requests
